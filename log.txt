@@ -1,0 +1,17 @@
+Monday 5/4/2015 5:00pm - 6:00pm
+~Read through the assignment and skimmed over some mySQL readings
+
+Friday 5/8/2015 4:00pm - 7:00pm
+~Began work on movie.php working with mySQL. Got the connection part set up and ready. Got addItem and Checkout written. Set
+~ up the database thing through ONID, this took the longest.
+
+Sunday 5/10/2015 1:00pm - 2:45pm
+~Wrote through deleteALL and delete 
+
+Sunday 5/10/2015 3:00pm - 7:00pm
+~Wrote the filter section and the html of the code so that it things actually show up on the screen
+
+Sunday 5/10/2015 8:00pm - 11:00pm
+~Lots of debugging. The database wasnt set up correctly so I had to change some variable so that the code would delete things
+~ and also be able to check them out. HTML works fine and so does adding and deleting all of the stuff. I cant get the auto-Increment to work
+~ so the id is off. 
